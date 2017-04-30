@@ -1,0 +1,2 @@
+# contact-forms
+It would be great for simplero to have the ability to create contact forms, where people could enter detailed information, either questionnaire style or prose style that would be delivered right into my inbox when it's submitted, but that would NOT show my email address. Wordpress has the ability to do this, but it would be fantastic to be able to have this in simplero since my website is not a wordpress site. thank you!!
